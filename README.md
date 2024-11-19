@@ -9,7 +9,7 @@
 **FutureCart**: *AI-Driven Demand Prediction for Smarter Retail.*
 
 # **Project Statement:**
-In the realm of E-commerce, demand forecasting plays a pivotal role in ensuring business success. This project aims to develop a demand forecasting model in an E-commerce business that predicts future product demand leveraging time series analysis and multivariate regression based on historical sales data, along with Google Analytics KPIs such as Google clicks and Facebook impressions, which are valuable indicators of customer interest.
+*In the realm of E-commerce, demand forecasting plays a pivotal role in ensuring business success. This project aims to develop a demand forecasting model in an E-commerce business that predicts future product demand leveraging time series analysis and multivariate regression based on historical sales data, along with Google Analytics KPIs such as Google clicks and Facebook impressions, which are valuable indicators of customer interest.*
 
 # **Outcomes**
 
@@ -45,14 +45,18 @@ In the realm of E-commerce, demand forecasting plays a pivotal role in ensuring 
 
 • Statistical summaries.
 
-## Milestone 2: Week 3
+# **Milestone 2: Week 3**
 
-**Module 3: Time Series Modeling**
+# Module 3: Time Series Modeling
 
 • This week, I'm delving into time series modeling, focusing on univariate models.
+
 • I'm exploring various approaches to determine the most suitable model for my specific data.
+
 • I'm being guided through the process of identifying the optimal model parameters.
+
 • I'm experimenting with different parameter combinations.
+
 • I'm selecting the one that yields the lowest error metric.
 
 
