@@ -46,7 +46,6 @@
 • Statistical summaries.
 
 # **Milestone 2: Week 3**
-
 # Module 3: Time Series Modeling
 
 • This week, I'm delving into time series modeling, focusing on univariate models.
@@ -59,6 +58,8 @@
 
 • I'm selecting the one that yields the lowest error metric.
 
+
+# **Milestone 2: Week 4**
 # Module 4 : Model Evaluation
 
 • I am visualizing the model fit by plotting predicted values against actual sales data.
