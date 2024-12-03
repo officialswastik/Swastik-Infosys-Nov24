@@ -69,13 +69,13 @@
 • I am checking residual plots to ensure no systematic errors remain.
 
 # **Milestone 3: Week 5**
-# Module 5: Multivariate Regression (Dynamic)**  
+# Module 5: Multivariate Regression (Dynamic) 
 ## **Sub-Module 5.1: Understanding Dynamic Regression & Data Preparation**  
 • I am creating lagged variables for imputed_Quantity, Google clicks, and Facebook impressions by shifting them by one or more time periods.  
  I am also considering interactions between predictors where appropriate, such as analyzing whether clicks during high-season periods have a greater impact.  
 
 # **Milestone 3: Week 6**
-# Module 6: Multivariate Regression (Dynamic)**  
+# Module 6: Multivariate Regression (Dynamic)  
 ## **Sub-Module 6.1: Model Construction**  
 
 • I am investigating functions to build dynamic regression models.  
