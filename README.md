@@ -86,6 +86,19 @@
 • I am using metrics like Adjusted R-squared, RMSE, and MAE to assess how well the model fits the data.  
 • I am visualizing residuals and comparing the performance of dynamic regression models to a basic multiple regression model.  
 
+# **Milestone 4: Week 7**
+# Module 7: Model Evaluation & Selection & Forecasting
+
+• I am conducting a comparative analysis of model performance on test data, calculating metrics like Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and Mean Absolute Percentage Error (MAPE).
+• I am selecting the best-performing models based on the calculated metrics.
+• I am generating forecasts for the future period using the selected models.
+
+
+### Project Summary:  
+This project, **FutureCart: AI-Driven Demand Prediction for Smarter Retail**, focuses on leveraging advanced analytics to forecast product demand in the E-commerce sector. By integrating historical sales data with Google Analytics KPIs (e.g., clicks and impressions), the project employs time series analysis and multivariate regression to build an accurate and robust demand forecasting model.
+
+The primary outcomes include enhanced inventory management, improved marketing strategies, and data-driven decision-making. By utilizing libraries such as **pandas**, **numpy**, **statsmodels**, and **sklearn**, the project ensures efficient data processing, visualization, and predictive modeling. This initiative underscores the transformative power of AI and machine learning in optimizing retail operations.
+
 
 
 
