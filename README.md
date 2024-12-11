@@ -72,25 +72,30 @@
 # Module 5: Multivariate Regression (Dynamic) 
 ## **Sub-Module 5.1: Understanding Dynamic Regression & Data Preparation**  
 • I am creating lagged variables for imputed_Quantity, Google clicks, and Facebook impressions by shifting them by one or more time periods.  
- I am also considering interactions between predictors where appropriate, such as analyzing whether clicks during high-season periods have a greater impact.  
+
+• I am also considering interactions between predictors where appropriate, such as analyzing whether clicks during high-season periods have a greater impact.  
 
 # **Milestone 3: Week 6**
 # Module 6: Multivariate Regression (Dynamic)  
 ## **Sub-Module 6.1: Model Construction**  
 
 • I am investigating functions to build dynamic regression models.  
+
 • I am starting with simple models and progressively adding complexity or interactions while working with training data.  
 
 ## **Sub-Module 6.2: Model Evaluation**  
 
 • I am using metrics like Adjusted R-squared, RMSE, and MAE to assess how well the model fits the data.  
+
 • I am visualizing residuals and comparing the performance of dynamic regression models to a basic multiple regression model.  
 
 # **Milestone 4: Week 7**
 # Module 7: Model Evaluation & Selection & Forecasting
 
 • I am conducting a comparative analysis of model performance on test data, calculating metrics like Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and Mean Absolute Percentage Error (MAPE).
+
 • I am selecting the best-performing models based on the calculated metrics.
+
 • I am generating forecasts for the future period using the selected models.
 
 
