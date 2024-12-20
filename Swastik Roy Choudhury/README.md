@@ -4,6 +4,8 @@
 
 ### **GitHub Repository** - https://github.com/officialswastik/Swastik-Infosys-Nov24
 
+[Project Demo Video](https://drive.google.com/file/d/1mC7HnNi_VTHRV9AClnGxKM91HFe4_KPY/view?usp=sharing)
+
 
 # **Title**
 **FutureCart**: *AI-Driven Demand Prediction for Smarter Retail.*
